@@ -2,6 +2,5 @@
 {
     public interface ISqlServerEngineSpecifications : ISqlEngineSpecifications
     {
-        // TODO agregar specifications propias de SQL Server
     }
 }
